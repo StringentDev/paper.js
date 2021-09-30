@@ -49,6 +49,6 @@ const RenderElement = function (data, locals) {
 	return product;
 }
 
-module.exports = {
+module.exports {
 	renderString: RenderElement
-}
+};

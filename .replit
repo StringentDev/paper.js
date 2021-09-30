@@ -1,1 +1,2 @@
-run = "node main.js"
+
+run = "node ."

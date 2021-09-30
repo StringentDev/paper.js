@@ -1,5 +1,33 @@
 {
+  "name": "@paper-js/paper",
+  "description": "* [Welcome to Paper.js](#welcome-to-Paper.JS)",
+  "version": "1.0.0-alpha",
+  "main": "src/inx.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StringentDev/paper.js.git"
+  },
   "dependencies": {
     "chalk": "^4.1.2"
-  }
+  },
+  "keywords": [
+    "HTTP",
+    "HTTPS",
+    "TLS",
+    "Web",
+    "Web",
+    "Server",
+    "HTML",
+    "Template",
+    "Engine"
+  ],
+  "author": "StringentDev, DarkDarCool",
+  "license": "AGPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/StringentDev/paper.js/issues"
+  },
+  "homepage": "https://github.com/StringentDev/paper.js#readme"
 }
